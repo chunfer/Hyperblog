@@ -8,11 +8,14 @@ body{
     border: 1.5px solid rgba(190, 190, 190, 0.7);
     margin: 0 auto;
     text-align: left;
+    border-radius: 5px;
 }
 #cabecera{
-    background-color: blueviolet;
+    background-color: royalblue;
     height: 20px;
     color: white;
     padding: 0.9em;
     font-size: 1.5em;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 }
